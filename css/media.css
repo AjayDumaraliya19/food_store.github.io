@@ -125,8 +125,6 @@
         flex-direction: column;
     }
 
-    background: var(--primary);
-
     footer .box {
         text-align: left;
         margin-right: 0;
